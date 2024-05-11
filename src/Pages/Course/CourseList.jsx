@@ -186,7 +186,7 @@ function CreateCourse(){
                     </button>
                 </form> */}
                 <iframe
-                    src="https://studywise.streamlit.app/"
+                    src="https://studywise.streamlit.app/?embed=true"
                     height="450"
                     style={{ width: "100%", border: "none", height: "90vh" }}
                     ></iframe>
